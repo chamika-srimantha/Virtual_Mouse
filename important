@@ -1,3 +1,14 @@
 First Of All ,
 
-On your PyCharm IDE go to file >> Settings
+On your PyCharm IDE go to file >> Settings.
+
+Next it will show your project name. Under your project name click on Python Intepreter and click on Plus icon.
+
+Finally install the all packages mention below :
+
+ opencv-python
+ mediapipe
+ pyautoGUI
+ protobuf (3.20.0 - specify version)
+ 
+ <img width="960" alt="dfrgevrg" src="https://user-images.githubusercontent.com/84226079/202894118-52ad6a82-09c1-4562-8072-f206e694d5b9.png">
